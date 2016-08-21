@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-08-21T03:42:51.884Z</updated>
+  <updated>2016-08-21T03:44:50.356Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,13 +20,13 @@
     <link href="http://yoursite.com/2016/08/19/%E8%BF%99%E5%8F%AA%E6%98%AF%E4%B8%80%E4%B8%AA%E6%B5%8B%E8%AF%95/"/>
     <id>http://yoursite.com/2016/08/19/这只是一个测试/</id>
     <published>2016-08-19T02:16:21.533Z</published>
-    <updated>2016-08-21T03:42:51.884Z</updated>
+    <updated>2016-08-21T03:44:50.356Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="��-�����N�����"><a href="#��-�����N�����" class="headerlink" title="��,�����Ǹ�����!"></a>��,�����Ǹ�����!</h3>]]></content>
+    <content type="html"><![CDATA[<h3 id="嗯-这就是个测试"><a href="#嗯-这就是个测试" class="headerlink" title="嗯,这就是个测试!"></a>嗯,这就是个测试!</h3>]]></content>
     
     <summary type="html">
     
-      &lt;h3 id=&quot;��-�����N�����&quot;&gt;&lt;a href=&quot;#��-�����N�����&quot; class=&quot;headerlink&quot; title=&quot;��,�����Ǹ�����!&quot;&gt;&lt;/a&gt;��,�����Ǹ�����!&lt;/h3&gt;
+      &lt;h3 id=&quot;嗯-这就是个测试&quot;&gt;&lt;a href=&quot;#嗯-这就是个测试&quot; class=&quot;headerlink&quot; title=&quot;嗯,这就是个测试!&quot;&gt;&lt;/a&gt;嗯,这就是个测试!&lt;/h3&gt;
     
     </summary>
     
