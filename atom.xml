@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-08-21T10:13:09.578Z</updated>
+  <updated>2016-08-21T14:11:50.222Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,17 +20,24 @@
     <link href="http://yoursite.com/2016/08/21/Hexo%20NexT%E4%B8%BB%E9%A2%98%E5%BB%BA%E7%AB%8BGitHub%E5%8D%9A%E5%AE%A2%E7%9A%84%E8%BF%87%E7%A8%8B%E8%AE%B0%E5%BD%95/"/>
     <id>http://yoursite.com/2016/08/21/Hexo NexT主题建立GitHub博客的过程记录/</id>
     <published>2016-08-21T09:35:00.000Z</published>
-    <updated>2016-08-21T10:13:09.578Z</updated>
+    <updated>2016-08-21T14:11:50.222Z</updated>
     
-    <content type="html"><![CDATA[<h4 id="前提"><a href="#前提" class="headerlink" title="前提:"></a>前提:</h4><p>最近想起以前看过有关在GitHub上建立博客的文章,就想趁着周末自己也试试.  </p>
+    <content type="html"><![CDATA[<center><br><img src="http://oc9fyu8fo.bkt.clouddn.com/two.jpg" alt="图片来自知乎" title="图片来自知乎"><br></center>
+
+
+
+<h4 id="前提"><a href="#前提" class="headerlink" title="前提:"></a>前提:</h4><p>最近想起以前看过有关在GitHub上建立博客的文章,就想趁着周末自己也试试.<br><a id="more"></a></p>
 <hr>
-<h4 id="行动"><a href="#行动" class="headerlink" title="行动:"></a>行动:</h4><p>首先是Google搜索有关的文章.<br><a id="more"></a><br>下面列出一些文章链接,感谢这些文章的作者:</p>
+<h4 id="行动"><a href="#行动" class="headerlink" title="行动:"></a>行动:</h4><p>首先是Google搜索有关的文章.</p>
+<p>下面列出一些文章链接,感谢这些文章的作者:</p>
 <ul>
 <li><p><a href="http://sunwhut.com/2015/10/30/buildBlog/?" target="_blank" rel="external">如何利用GitHub Pages和Hexo快速搭建个人博客</a>  </p>
 </li>
 <li><p><a href="https://wsgzao.github.io/post/hexo-guide/" target="_blank" rel="external">使用GitHub和Hexo搭建免费静态Blog</a>  </p>
 </li>
 <li><p><a href="http://theme-next.iissnan.com/theme-settings.html#volunteer-404" target="_blank" rel="external">Next主题相关设置</a>  </p>
+</li>
+<li><p><a href="https://xifengxx.github.io/2016/04/07/hexo-内置标签/" target="_blank" rel="external">hexo-内置标签</a></p>
 </li>
 </ul>
 <p>根据上面文章的步骤就可以了(懒得再重复写)</p>
@@ -40,13 +47,20 @@
 <li>看清楚文章的指导</li>
 <li>看清楚文章的指导<br>比如添加”分类”,”标签”页面的时候,”type:”是添加在对应文件夹的index.md文件里的,如: <em>tags/index.md</em>  </li>
 </ul>
+<hr>
+<h4 id="其他"><a href="#其他" class="headerlink" title="其他:"></a>其他:</h4><ul>
+<li>本地运行”公益404”有效果,传到GitHub后就看不到效果了,暂时不知道为什么.</li>
+<li>暂时还没有绑定域名.</li>
+</ul>
 ]]></content>
     
     <summary type="html">
     
-      &lt;h4 id=&quot;前提&quot;&gt;&lt;a href=&quot;#前提&quot; class=&quot;headerlink&quot; title=&quot;前提:&quot;&gt;&lt;/a&gt;前提:&lt;/h4&gt;&lt;p&gt;最近想起以前看过有关在GitHub上建立博客的文章,就想趁着周末自己也试试.  &lt;/p&gt;
-&lt;hr&gt;
-&lt;h4 id=&quot;行动&quot;&gt;&lt;a href=&quot;#行动&quot; class=&quot;headerlink&quot; title=&quot;行动:&quot;&gt;&lt;/a&gt;行动:&lt;/h4&gt;&lt;p&gt;首先是Google搜索有关的文章.&lt;br&gt;
+      &lt;center&gt;&lt;br&gt;&lt;img src=&quot;http://oc9fyu8fo.bkt.clouddn.com/two.jpg&quot; alt=&quot;图片来自知乎&quot; title=&quot;图片来自知乎&quot;&gt;&lt;br&gt;&lt;/center&gt;
+
+
+
+&lt;h4 id=&quot;前提&quot;&gt;&lt;a href=&quot;#前提&quot; class=&quot;headerlink&quot; title=&quot;前提:&quot;&gt;&lt;/a&gt;前提:&lt;/h4&gt;&lt;p&gt;最近想起以前看过有关在GitHub上建立博客的文章,就想趁着周末自己也试试.&lt;br&gt;
     
     </summary>
     
